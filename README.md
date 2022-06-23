@@ -1,1 +1,1 @@
-Task 0.where am I? script
+Task 0
